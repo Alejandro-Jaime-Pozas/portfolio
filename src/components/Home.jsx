@@ -13,7 +13,10 @@ export default function Home() {
                     </small>
                 </p>
                 <button className='btn btn-dark'>linkedin</button>
+                <a href="#" class="fa fa-linkedin"></a>
+
             </div>
+            
         </div>
     )
 }
