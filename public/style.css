@@ -1,0 +1,29 @@
+.fa {
+  padding: 4px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 20%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.portfolio{
+  width: 75px;
+  height: 38px;
+  margin-top: 20px;
+}

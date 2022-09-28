@@ -6,6 +6,7 @@ import Register from './components/Register';
 // import AlertMessage from './components/AlertMessage';
 import Login from './components/Login';
 import CreatePost from './components/CreatePost';
+import Portfolio from './components/Portfolio.jsx';
 
 function App() {
     // console.log('hello')
@@ -28,7 +29,7 @@ function App() {
             <div className='container'>
                 <Routes>
                     <Route path='/' element={<Home />} />
-                    <Route path='/register' element={<Register />} />
+                    <Route path='/portfolio' element={<Portfolio />} />
                     <Route path='/login' element={<Login />} />
                     <Route path='/create_post' element={<CreatePost />} />
                 </Routes>
