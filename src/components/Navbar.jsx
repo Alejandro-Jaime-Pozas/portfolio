@@ -11,10 +11,10 @@ export default function Navbar(props) {
                 <div className="row collapse navbar-collapse text-center fs-5" id="navbarNav">
                     <ul className="navbar-nav p-0">
                         <li className="nav-item col">
-                        <Link className="nav-link" to="/">Home</Link>
+                        <Link className="nav-link" to="/">Portfolio</Link>
                         </li>
                         <li className="nav-item col">
-                        <Link className="nav-link" to="/portfolio">Portfolio</Link>
+                        <Link className="nav-link" to="/about">About Me</Link>
                         </li>
                         <li className="nav-item col">
                         <Link className="nav-link" to="/contact">Contact Me</Link>

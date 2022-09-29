@@ -1,12 +1,8 @@
-import { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Navbar from "./components/Navbar";
-import Home from './components/Home';
-import Register from './components/Register';
-// import AlertMessage from './components/AlertMessage';
-import Login from './components/Login';
-import CreatePost from './components/CreatePost';
 import Portfolio from './components/Portfolio.jsx';
+import AboutMe from './components/AboutMe';
+import ContactMe from './components/ContactMe';
 
 function App() {
     // console.log('hello')
@@ -28,10 +24,9 @@ function App() {
             <Navbar name='Brian' city='Chicago' />
             <div className='container'>
                 <Routes>
-                    <Route path='/' element={<Home />} />
-                    <Route path='/portfolio' element={<Portfolio />} />
-                    <Route path='/login' element={<Login />} />
-                    <Route path='/create_post' element={<CreatePost />} />
+                    <Route path='/' element={<Portfolio />} />
+                    <Route path='/about' element={<AboutMe />} />
+                    <Route path='/contact' element={<ContactMe />} />
                 </Routes>
             </div>
         </>
