@@ -16,7 +16,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="#" className="col-6 btn p-1 m-0 ">Stock Trading App (NA)</a>
+                <a href="#" target="_blank" className="col-6 btn p-1 m-0 ">Stock Trading App (NA)</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/stock_trading_app_flask.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
@@ -30,7 +30,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="https://react-social-media-blog.herokuapp.com/" className="col-6 btn p-1 m-0 ">Social Media App</a>
+                <a href="https://react-social-media-blog.herokuapp.com/" target="_blank" className="col-6 btn p-1 m-0 ">Social Media App</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/react_day5.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
@@ -44,7 +44,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="https://phonebook-contacts-flask.herokuapp.com/" className="col-6 btn p-1 m-0 ">Phonebook App</a>
+                <a href="https://phonebook-contacts-flask.herokuapp.com/" target="_blank" className="col-6 btn p-1 m-0 ">Phonebook App</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/flask_phonebook_v2.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
@@ -58,7 +58,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="#" className="col-6 btn p-1 m-0 ">Weather App (NA)</a>
+                <a href="#" target="_blank" className="col-6 btn p-1 m-0 ">Weather App (NA)</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/js_day5.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
