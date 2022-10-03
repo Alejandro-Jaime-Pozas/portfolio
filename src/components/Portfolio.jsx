@@ -16,7 +16,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="#" target="_blank" className="col-6 btn p-1 m-0 ">Stock Trading App (NA)</a>
+                <a href="https://stock-trading-app-alejandro.web.app/" target="_blank" className="col-6 btn p-1 m-0 ">Stock Trading App</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/stock_trading_app_flask.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
