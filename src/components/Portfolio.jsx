@@ -12,7 +12,7 @@ export default function Portfolio() {
         <div className='col-lg-3 text-start ms-3 mt-4'>
             <h1 className='display-6 text-center'>Stock Trading App </h1>
             <p className=''><small>
-                This is a stock trading app with a Flask backend and a React frontend. It fetches from the Finnhub API for real-time stock quotes and other financials. Users can signup, login, edit their info, search for stocks, deposit/withdraw funds, buy/sell stocks, and view their real-time portfolio value. It's pretty cool, check it out!
+                This is a secure stock trading app with a Flask backend and a React frontend. It fetches from the Finnhub API for real-time stock quotes and other financials. Users can signup, login, edit their info, search for stocks, deposit/withdraw funds, buy/sell stocks, and view their real-time portfolio value all with secure authentication access for the user. It's pretty cool, check it out!
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
