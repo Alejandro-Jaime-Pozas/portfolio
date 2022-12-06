@@ -6,6 +6,9 @@ import AboutMe from './components/AboutMe';
 import ContactMe from './components/ContactMe';
 
 function App() {
+
+    // WHEN TRYING TO DEPLOY AFTER RUNNING BUILD, CHECK HERE: https://stackoverflow.com/questions/62069931/reactjs-app-deployed-to-firebase-hosting-not-updating-after-first-deployment
+
     // console.log('hello')
     // Date obj gives us the date, 
     // const now = new Date();

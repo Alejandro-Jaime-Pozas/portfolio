@@ -3,12 +3,13 @@ import stock from '../imgs/stock_app.png'
 import blog from '../imgs/react_social_media.png'
 import phonebook from '../imgs/phonebook.png'
 import weather from '../imgs/weather.png'
+import stock2 from '../imgs/stock_app2.png'
 
 export default function Portfolio() {
   return (
     <>
     <div className='websites row align-items-center pb-5'>
-        <img src={stock} alt="" className='webimage col order-last order-lg-first img-fluid rounded p-0 w-25 ' />
+        <img src={stock2} alt="" className='webimage col order-last order-lg-first img-fluid rounded p-0 w-25 ' />
         <div className='col-lg-3 text-start ms-3 mt-4'>
             <h1 className='display-6 text-center'>Stock Trading App </h1>
             <p className=''><small>
