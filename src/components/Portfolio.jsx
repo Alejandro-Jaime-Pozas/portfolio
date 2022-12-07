@@ -45,7 +45,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="https://phonebook-contacts-flask.herokuapp.com/" target="_blank" className="col-6 btn p-1 m-0 ">Phonebook App</a>
+                <a href="https://phonebook-flask.glitch.me/" target="_blank" className="col-6 btn p-1 m-0 ">Phonebook App</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/flask_phonebook_v2.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
