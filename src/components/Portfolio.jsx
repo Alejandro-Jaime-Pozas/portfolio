@@ -31,7 +31,7 @@ export default function Portfolio() {
                 </small>
             </p>
             <div className='webbuttons row align-items-center justify-content-around'>
-                <a href="https://react-social-media-blog.herokuapp.com/" target="_blank" className="col-6 btn p-1 m-0 ">Social Media App</a>
+                <a href="https://react-social-media-alex.web.app/" target="_blank" className="col-6 btn p-1 m-0 ">Social Media App</a>
                 <a href="https://github.com/Alejandro-Jaime-Pozas/react_day5.git" target="_blank" className="col-1 fa fa-github "></a>
             </div>
         </div>
